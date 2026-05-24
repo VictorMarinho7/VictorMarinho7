@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Victor Gabriel Marinho da Silva, tenho 16 anos e sou natural de Manacapuru / Amazonas. Atualmente, estou cursando o Ensino Médio integrado ao técnico de Programação de Jogos Digitais.
+Me chamo Victor Gabriel Marinho da Silva, tenho 17 anos e sou natural de Manacapuru / Amazonas. Atualmente, estou cursando o Ensino Médio integrado ao técnico de Programação de Jogos Digitais.
 
 ---
 
